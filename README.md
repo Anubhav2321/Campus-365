@@ -1,2 +1,2 @@
 # Campus-365
-College management system with MySQL tables
+This is a collage management system group project.
